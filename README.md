@@ -6,3 +6,6 @@ Copyrigth, License
 +.02/06/1989{
 +....}
 +.@k9999K's
++.839 exchange cir 
+      unit 715
+ bethlehem g,a 30630
