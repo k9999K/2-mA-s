@@ -15,3 +15,4 @@ Copyrigth, License
      =SCP-106
  =/ ! F-16
 +   .   su-34
+   =4000
